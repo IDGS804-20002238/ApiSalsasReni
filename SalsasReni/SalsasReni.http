@@ -1,0 +1,6 @@
+@SalsasReni_HostAddress = http://localhost:5222
+
+GET {{SalsasReni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
